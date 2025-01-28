@@ -1,4 +1,4 @@
-# Avaliar a criaão de um E-BOOK gerado por IA.
+# Avaliar a criação de um E-BOOK gerado por IA.
 
 ## 📒 Descrição
 O objetivo é avaliar o conteúdo e estruturação de um e-book gerado por IA que atenda ao requisito de abranger a proposta de educação para uma faixa etária de até 7 anos.
